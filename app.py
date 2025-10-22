@@ -131,4 +131,4 @@ if st.button('📤 Enviar valor analógico'):
     st.success(f"🚀 Valor analógico enviado: `{values}`")
 
 st.markdown("---")
-st.caption("Diseño en rosa 💖 y morado 💜 con Streamlit + MQTT")
+
